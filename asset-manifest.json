@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/DigitalAlarmClock/static/css/main.0cd7f3f9.chunk.css",
+    "main.js": "/DigitalAlarmClock/static/js/main.1971d782.chunk.js",
+    "main.js.map": "/DigitalAlarmClock/static/js/main.1971d782.chunk.js.map",
+    "runtime-main.js": "/DigitalAlarmClock/static/js/runtime-main.5e047095.js",
+    "runtime-main.js.map": "/DigitalAlarmClock/static/js/runtime-main.5e047095.js.map",
+    "static/js/2.b9dcb755.chunk.js": "/DigitalAlarmClock/static/js/2.b9dcb755.chunk.js",
+    "static/js/2.b9dcb755.chunk.js.map": "/DigitalAlarmClock/static/js/2.b9dcb755.chunk.js.map",
+    "static/js/3.cc593223.chunk.js": "/DigitalAlarmClock/static/js/3.cc593223.chunk.js",
+    "static/js/3.cc593223.chunk.js.map": "/DigitalAlarmClock/static/js/3.cc593223.chunk.js.map",
+    "index.html": "/DigitalAlarmClock/index.html",
+    "static/css/main.0cd7f3f9.chunk.css.map": "/DigitalAlarmClock/static/css/main.0cd7f3f9.chunk.css.map",
+    "static/js/2.b9dcb755.chunk.js.LICENSE.txt": "/DigitalAlarmClock/static/js/2.b9dcb755.chunk.js.LICENSE.txt",
+    "static/media/alarmsound.0bcbb083.mp3": "/DigitalAlarmClock/static/media/alarmsound.0bcbb083.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e047095.js",
+    "static/js/2.b9dcb755.chunk.js",
+    "static/css/main.0cd7f3f9.chunk.css",
+    "static/js/main.1971d782.chunk.js"
+  ]
+}
